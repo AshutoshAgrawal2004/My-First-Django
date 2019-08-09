@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/My First Django.iml" filepath="$PROJECT_DIR$/.idea/My First Django.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Web Scraping/.idea/Web Scraping.iml" filepath="$PROJECT_DIR$/../Web Scraping/.idea/Web Scraping.iml" />
     </modules>
   </component>
 </project>
